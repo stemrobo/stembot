@@ -63,15 +63,15 @@ enum SBREG_PIO {
 
 // custom enum for moveIt function
 enum SBMove {
-    //% block="FORWARD"
+    //% block="forward"
     Forward = 0,
-    //% block="BACKWARD"
+    //% block="backward"
     Backward = 1,
-    //% block="LEFT"
+    //% block="left"
     Left = 2,
-    //% block="RIGHT"
+    //% block="right"
     Right = 3,
-    //% block="STOP"
+    //% block="stop"
     Stop = 4,
 }
 
