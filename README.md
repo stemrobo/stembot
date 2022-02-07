@@ -1,6 +1,6 @@
 # Stembot: Extension for Microbit PXT
 
-This library provides a Microsoft PXT package for Stembot, see https://www.tinkermart.in/.
+This library provides a Microsoft PXT package for Stembot, see https://www.tinkermart.in/shop/stembot/.
 
 ## Move/Drive the robot
 
