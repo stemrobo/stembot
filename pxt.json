@@ -11,7 +11,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "stembot.ts"
+        "stembot.ts",
+        "icon.png"
     ],
     "testFiles": [
         "test.ts"
